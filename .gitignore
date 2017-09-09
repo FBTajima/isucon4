@@ -1,0 +1,15 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cpanm/
+.gem/
+.kshrc
+.lesshst
+.local/
+.mysql_history
+.npm/
+.tmux.conf
+.viminfo
+.xbuild/
+gocode/
